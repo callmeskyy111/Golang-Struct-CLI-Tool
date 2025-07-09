@@ -1,4 +1,4 @@
-👨‍💻 Let’s walk through our Go project step-by-step. We're building a **CLI note-taking tool**
+👨🏻‍💻 Let’s walk through our Go project step-by-step. We're building a **CLI note-taking tool**
 ---
 
 ## 📁 Project Structure (2 files)
